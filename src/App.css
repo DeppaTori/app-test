@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.header-menu{
+  background-color: black;
+  padding:20px 10px;
+}
+
+.header-menu a{
+  color:white;
+  background-color: red;
+  padding: 20px 10px;
+  text-decoration: none;
+}
+
+.add-form{
+  padding:20px;
+  border:1px solid black;
+  margin:auto;
+  width:300px;
+}
